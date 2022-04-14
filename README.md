@@ -15,3 +15,9 @@ Thank You for reading till the end. Comment your queries if you have any.
 Humans do mistakes, tell us if you find something wrong in this article.
 
 ![image](https://user-images.githubusercontent.com/72465037/163439139-01f6aa40-aece-42e5-81b2-378a48a13d3d.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/72465037/163439504-3a3b1c48-5db7-4172-a9ad-bf822eec505e.png)
+
