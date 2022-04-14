@@ -12,7 +12,8 @@ Write a module source as this is the main program. Inside this code, call the go
 
 Thank You for reading till the end. Comment your queries if you have any.
 
-Humans do mistakes, tell us if you find something wrong in this article.
+![image](https://user-images.githubusercontent.com/72465037/163440393-66d3f1f2-cce3-43dc-b055-f13314ac66f0.png)
+ please let us know if you spot anything incorrect in this repo.
 
 ![image](https://user-images.githubusercontent.com/72465037/163439139-01f6aa40-aece-42e5-81b2-378a48a13d3d.png)
 
